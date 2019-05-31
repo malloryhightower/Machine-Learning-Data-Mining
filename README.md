@@ -1,5 +1,5 @@
 # Machine-Learning-Data-Mining
-Notebooks for Data Mining SMU MSDS
+Notebooks for Data Mining SMU MSDS completed in Spring 2019.
 
 These notebooks were submitted to the SMU MSDS program as part of the Data Mining class.
 The notebooks cover exploratory data analysis and various supervised and unsupervised machine learning algorithms.
